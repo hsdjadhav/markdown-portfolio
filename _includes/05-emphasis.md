@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*Raghunath Jadhav is my grandfather*
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
+**Pramod Jadhav is my father**
+
+
+_I am **Harshad Jadhav**_
